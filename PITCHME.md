@@ -4,7 +4,7 @@ Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen
 ### Michael Grünstäudl, PhD
 Freien Universität Berlin
 
---
+---
 
 ## Introduction
 ### FooBarBaz
@@ -12,7 +12,7 @@ Freien Universität Berlin
 - Bar: FooBarBaz
 ![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
 
---
+---
 
 ## Introduction
 ### FooBarBaz
@@ -20,7 +20,7 @@ Freien Universität Berlin
 - Bar: FooBarBaz
 ![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/A__Introduction_2_bud.jpg)
 
---
+---
 
 ## Growing In Greenhouse
 ### FooBarBaz
@@ -28,7 +28,7 @@ Freien Universität Berlin
 - Bar: FooBarBaz
 ![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/B__GrowingInGreenhouse_Victoria_1b.jpg)
 
---
+---
 
 ## Growing In Greenhouse
 ### FooBarBaz
