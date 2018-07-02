@@ -1,4 +1,4 @@
-### Die Erforschung der Evolution von Seerosen    - Gene, Genome, Computeranalysen
+### Die Erforschung der Evolution von Seerosen - Gene, Genome, Computeranalysen
 Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen mittels genetischer, genomischer und bioinformatischer Methoden
 
 #### Michael Grünstäudl, PhD
@@ -8,8 +8,8 @@ Freien Universität Berlin
 
 ### Introduction
 #### FooBarBaz
-   - Foo: FooBarBaz
-   - Bar: FooBarBaz
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Foo: FooBarBaz
+&nbsp;&nbsp;&nbsp; - Bar: FooBarBaz
 ![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
 
 ---
