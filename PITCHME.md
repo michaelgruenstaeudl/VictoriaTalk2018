@@ -8,10 +8,11 @@ Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen
 
 #### Michael Grünstäudl, PhD
 Freien Universität Berlin
----
-### Introduction
-This is a test sentence.
-![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
+
+---?image=/img/A__Introduction_1_LeafsOfDifferentAges.jpg
+###@color[white](Introduction
+This is a test sentence.)
+
 ---
 ### Introduction
 ###### Foo
