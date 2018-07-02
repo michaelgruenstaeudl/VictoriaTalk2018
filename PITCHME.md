@@ -10,7 +10,7 @@ Freien Universität Berlin
 ### FooBarBaz
 - Foo: FooBarBaz
 - Bar: FooBarBaz
-![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
+![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ Freien Universität Berlin
 ### FooBarBaz
 - Foo: FooBarBaz
 - Bar: FooBarBaz
-![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/A__Introduction_2_bud.jpg)
+![Image](/img/A__Introduction_2_bud.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ Freien Universität Berlin
 ### FooBarBaz
 - Foo: FooBarBaz
 - Bar: FooBarBaz
-![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/B__GrowingInGreenhouse_Victoria_1b.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_1b.jpg)
 
 ---
 
@@ -34,5 +34,5 @@ Freien Universität Berlin
 ### FooBarBaz
 - Foo: FooBarBaz
 - Bar: FooBarBaz
-![Image](https://github.com/michaelgruenstaeudl/VictoriaTalk2018/img/B__GrowingInGreenhouse_Victoria_1.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_1.jpg)
 
