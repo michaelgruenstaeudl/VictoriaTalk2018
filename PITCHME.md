@@ -8,8 +8,9 @@ Freien Universität Berlin
 
 ### Introduction
 #### FooBarBaz
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Foo: FooBarBaz
-&nbsp;&nbsp;&nbsp; - Bar: FooBarBaz
+&nbsp;&nbsp;&nbsp;- *Foo*: FooBarBaz FooBarBaz FooBarBaz FooBarBaz
+
+&nbsp;&nbsp;&nbsp;- **Bar**: FooBarBaz
 ![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
 
 ---
