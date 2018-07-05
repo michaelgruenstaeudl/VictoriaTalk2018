@@ -1,12 +1,14 @@
 ### Die Erforschung der 
 ### Evolution 
 ### von Seerosen
+<br>
 ##### Gene, Genome, Computeranalysen
 
 ---
 
 Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen mittels genetischer, genomischer und bioinformatischer Methoden
-
+<br>
+<br>
 #### Michael Grünstäudl, PhD
 Freien Universität Berlin
 
@@ -19,7 +21,7 @@ Victoria gehört zu den Seerosen.
 ---
 
 ## Die Pflanze
-Die Pflanze blüht an zwei aufeinanderfolgenden Nächten; zuerst weiß, dann rosa.
+Die Pflanze blüht an zwei aufeinanderfolgenden Nächten: zuerst weiß, dann rosa.
 ![Image](/img/A__Introduction_2_bud.jpg)
 
 ---
@@ -36,13 +38,13 @@ Die Heimat von Victoria ist Südamerika.
 ---
 
 ## Die Pflanze im Glashaus
-Die Bedingungen im Glashauses sind folglich tropisch.
+Die Bedingungen im Glashauses müssen tropisch sein.
 ![Image](/img/B__GrowingInGreenhouse_Victoria_1.jpg)
 
 ---
 
 ## Die Pflanze im Glashaus
-Eine Wassertemperatur soll nie weniger als 15°C betragen.
+Die Wassertemperatur soll nie weniger als 15°C betragen.
 ![Image](/img/B__GrowingInGreenhouse_Victoria_2.jpg)
 
 ---
@@ -60,7 +62,7 @@ Fischeier haften oft an unterirdischen Rhizomen an und werden so eingeschleppt.
 ---
 
 ## Aufzucht für Wissenschaft
-Für wissenschaftliche Zwecke werden unterschiedliche Seerosen-Arten oft in kleinen Becken gehalten.
+Für wissenschaftliche Zwecke werden Seerosen-Arten in kleinen Becken gehalten.
 ![Image](/img/B__GrowingInGreenhouse_Victoria_3.jpg)
 
 ---
@@ -79,7 +81,7 @@ Die Pflanzen lassen sich einfach begutachten.
 
 ## Aufzucht für Wissenschaft
 Alle Pflanzen müssen genau beschriftet sein.
-![Image](/img/B__GrowingInGreenhouse_Victoria_5.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_8.jpg)
 
 ---
 
@@ -114,7 +116,7 @@ Ungebetene Gäste sind keine (wieder) Seltenheit.
 ---
 
 ## Kontamination durch Algen
-Für die wissenschaftliche Bearbeitung ist es wichtig, mögliche Kontamination zu identifizieren un zu entfernen.
+Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
 ![Image](/img/D__Contamination_Algae_2.jpg)
 
 ---
@@ -126,161 +128,174 @@ Ungebetene Gäste sind keine (wieder) Seltenheit.
 ---
 
 ## Kontamination durch Algen
-Für die wissenschaftliche Bearbeitung ist es wichtig, mögliche Kontamination zu identifizieren un zu entfernen.
+Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
 ![Image](/img/D__Contamination_Algae_4.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_10.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Die Unterseite der Blätter ist durch Stacheln bewehrt.
 ![Image](/img/E__CollectingNymphaea_11.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_12.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
 ![Image](/img/E__CollectingNymphaea_1.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
 ![Image](/img/E__CollectingNymphaea_2.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_3.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_4.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_5.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Sammeln von Blattmaterial bei Victoria
+Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_6.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Morphologie der Blattunterseite
+Stützrippen halten das Blatt gerade und flach.
 ![Image](/img/E__CollectingNymphaea_7.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Morphologie der Blattunterseite
+Stützrippen halten das Blatt gerade und flach; Stacheln sind häufig.
 ![Image](/img/E__CollectingNymphaea_8.jpg)
 
 ---
 
-## Collecting Nymphaea
-FooBarBaz
+## Anatomie der Blätter und Blattstiele
+Luft wird über die Blätter aufgenommen und über Kanalsysteme bis zu den Wurzeln geleitet.
 ![Image](/img/E__CollectingNymphaea_9.jpg)
 
 ---
 
-## Anatomy
-FooBarBaz
+## Anatomie der Blätter und Blattstiele
+Photosynthetisch aktive Zellen enthalten eine hohe Anzahl an Chloroplasten.
 ![Image](/img/F__Anatomy_1_Leaf_Durchlicht.jpg)
 
----
-
-## Anatomy
-FooBarBaz
-![Image](/img/F__Anatomy_2_StemCross_Fluorescent.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_1_CleaningPlants.jpg)
+## Laborarbeit
+Aufreinigung gesammelter Blätter
+![Image](/img/G__Laborarbeit_1_CleaningPlants.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_2_CleaningPlants.jpg)
+## Laborarbeit
+Waschen in Ethanol hilft beim Entfernen von Algen.
+![Image](/img/G__Laborarbeit_2_CleaningPlants.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_2_LRPCRamplification.jpg)
+## Laborarbeit
+Genomische DNA wird extrahiert und sogenannte DNA-Marker amplifiziert.
+![Image](/img/G__Laborarbeit_2_LRPCRamplification.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_3_LRPCRamplification.jpg)
+## Laborarbeit
+Die zirkulären Genome der Chloroplasten werden als DNA-Marker verwendet.
+![Image](/img/G__Laborarbeit_3_LRPCRamplification.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_4_LibraryPrep.jpg)
+## Laborarbeit
+Die DNA-Marker werden für die DNA Sequenzierung vorbereitet.
+![Image](/img/G__Laborarbeit_4_LibraryPrep.jpg)
 
 ---
 
-## Labwork
-FooBarBaz
-![Image](/img/G__Labwork_5_DNAsequencing.jpg)
+## Laborarbeit
+DNA Sequenzierung findet heute auf minituarisierten Platten statt; riesige Datenmengen werden produziert.
+![Image](/img/G__Laborarbeit_5_DNAsequencing.jpg)
 
 ---
 
-## Scientific Conference
-FooBarBaz
+## Bioinformatische Analyse
+Sequenzierdaten werden bioinformatisch bearbeitet.
+![Image](/img/H__Bioinformatics_1.jpg)
+
+---
+
+## Bioinformatische Analyse
+Oft ist die Verwendung von Hochleistungsrechnern notwendig.
+![Image](/img/H__Bioinformatics_2.jpg)
+
+---
+
+## Bioinformatische Analyse
+Oft ist die Verwendung von Hochleistungsrechnern notwendig.
+![Image](/img/H__Bioinformatics_3.jpg)
+
+---
+
+## Präsentation der Resultate
+Präsentation der Resultate auf wissenschaftlichen Konferenzen
 ![Image](/img/J__ScientificConferences_1.jpg)
 
 ---
 
-## Scientific Conference
-FooBarBaz
+## Präsentation der Resultate
+Worksops werden oft abgehalten.
 ![Image](/img/J__ScientificConferences_2_Workshop.jpg)
 
 ---
 
-## Teaching
-FooBarBaz
-![Image](/img/K__Teaching_1_SchoolLevel.jpg)
+## Unterricht und Lehre
+Diskussion der Ergebnisse mit Schülern
+![Image](/img/K__Unterricht und Lehre_1_SchoolLevel.jpg)
 
 ---
 
-## Teaching
-FooBarBaz
-![Image](/img/K__Teaching_2_UniversityLevel_Audimax.jpg)
+## Unterricht und Lehre
+Diskussion der Ergebnisse mit erstsemestrigen Studenten der Biologie
+![Image](/img/K__Unterricht und Lehre_2_UniversityLevel_Audimax.jpg)
 
 ---
 
-## Teaching
-FooBarBaz
-![Image](/img/K__Teaching_3_UniversityLevel_Lehramtsmaster.jpg)
+## Unterricht und Lehre
+Diskussion der Ergebnisse mit Lehramststudenten
+![Image](/img/K__Unterricht und Lehre_3_UniversityLevel_Lehramtsmaster.jpg)
 
 ---
 
-## Teaching
-FooBarBaz
-![Image](/img/K__Teaching_4_UniversityLevel_JournalClub.jpg)
+## Unterricht und Lehre
+Diskussion der Ergebnisse mit Doktoratsstudenten
+![Image](/img/K__Unterricht und Lehre_4_UniversityLevel_JournalClub.jpg)
