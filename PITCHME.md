@@ -133,79 +133,79 @@ Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu ide
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_10.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Die Unterseite der Blätter ist durch Stacheln bewehrt.
 ![Image](/img/E__CollectingNymphaea_11.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_12.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
 ![Image](/img/E__CollectingNymphaea_1.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
 ![Image](/img/E__CollectingNymphaea_2.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_3.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_4.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_5.jpg)
 
 ---
 
-## Sammeln von Blattmaterial bei Victoria
+## Sammeln von Blattmaterial
 Foo Bar Baz
 ![Image](/img/E__CollectingNymphaea_6.jpg)
 
 ---
 
-## Morphologie der Blattunterseite
+## Morphologie
 Stützrippen halten das Blatt gerade und flach.
 ![Image](/img/E__CollectingNymphaea_7.jpg)
 
 ---
 
-## Morphologie der Blattunterseite
+## Morphologie
 Stützrippen halten das Blatt gerade und flach; Stacheln sind häufig.
 ![Image](/img/E__CollectingNymphaea_8.jpg)
 
 ---
 
-## Anatomie der Blätter und Blattstiele
+## Anatomie
 Luft wird über die Blätter aufgenommen und über Kanalsysteme bis zu den Wurzeln geleitet.
 ![Image](/img/E__CollectingNymphaea_9.jpg)
 
 ---
 
-## Anatomie der Blätter und Blattstiele
+## Anatomie
 Photosynthetisch aktive Zellen enthalten eine hohe Anzahl an Chloroplasten.
 ![Image](/img/F__Anatomy_1_Leaf_Durchlicht.jpg)
 
