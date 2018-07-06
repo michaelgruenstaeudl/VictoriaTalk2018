@@ -299,3 +299,14 @@ Diskussion der Ergebnisse mit Lehramststudenten
 ## Unterricht und Lehre
 Diskussion der Ergebnisse mit Doktoratsstudenten
 ![Image](/img/K__Unterricht und Lehre_4_UniversityLevel_JournalClub.jpg)
+
+---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=20
+
+## About me
+
+Michael Gruenstaeudl, PhD
+Freie Universität Berlin
+
+<i class="fa fa-envelope"></i> m.gruenstaeudl@fu-berlin.de
+<i class="fa fa-github"></i> https://github.com/michaelgruenstaeudl<br />
+<i class="fa fa-firefox"></i> https://blogs.fu-berlin.de/gruenstaeudl/<br />
