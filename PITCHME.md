@@ -85,15 +85,6 @@ Ungebetene Gäste sind keine (wieder) Seltenheit.
 ---?image=img/D__Contamination_Algae_2.jpg&size=contain
 ### Kontamination durch Algen
 Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
-
----?image=img/D__Contamination_Algae_3.jpg&size=contain
-### Kontamination durch Algen
-Ungebetene Gäste sind keine (wieder) Seltenheit.
-
----?image=img/D__Contamination_Algae_4.jpg&size=contain
-### Kontamination durch Algen
-Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
-
 ---?image=img/E__CollectingNymphaea_10.jpg&size=contain
 ### Sammeln von Blattmaterial
 Foo Bar Baz
@@ -113,10 +104,6 @@ Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
 ---?image=img/E__CollectingNymphaea_2.jpg&size=contain
 ### Sammeln von Blattmaterial
 Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
-
----?image=img/E__CollectingNymphaea_3.jpg&size=contain
-### Sammeln von Blattmaterial
-Foo Bar Baz
 
 ---?image=img/E__CollectingNymphaea_4.jpg&size=contain
 ### Sammeln von Blattmaterial
