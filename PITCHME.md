@@ -1,15 +1,15 @@
 ---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=75
-#### Die Erforschung der 
-#### Evolution 
-#### von Seerosen
+## Die Erforschung der 
+## Evolution 
+## von Seerosen
 <br>
-###### Gene, Genome, Computeranalysen
+### Gene, Genome, Computeranalysen
 
 ---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=75
 Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen mittels genetischer, genomischer und bioinformatischer Methoden
 <br>
 <br>
-##### Michael Grünstäudl, PhD
+### Michael Grünstäudl, PhD
 Freien Universität Berlin
 
 ---?image=img/A__Introduction_1_LeafsOfDifferentAges.jpg&size=cover
