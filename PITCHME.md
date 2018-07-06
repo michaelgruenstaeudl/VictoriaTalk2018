@@ -1,4 +1,5 @@
 ---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=75
+<br>
 ## Die Erforschung der 
 ## Evolution 
 ## von Seerosen
@@ -6,6 +7,7 @@
 ### Gene, Genome, Computeranalysen
 
 ---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=75
+<br>
 Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen mittels genetischer, genomischer und bioinformatischer Methoden
 <br>
 <br>
@@ -144,27 +146,27 @@ Luft wird über die Blätter aufgenommen und über Kanalsysteme bis zu den Wurze
 ### Anatomie
 Photosynthetisch aktive Zellen enthalten eine hohe Anzahl an Chloroplasten.
 
----?image=img/G__Laborarbeit_1_CleaningPlants.jpg&size=cover
+---?image=img/G__Labwork_1_CleaningPlants.jpg&size=cover
 ### Laborarbeit
 Aufreinigung gesammelter Blätter
 
----?image=img/G__Laborarbeit_2_CleaningPlants.jpg&size=cover
+---?image=img/G__Labwork_2_CleaningPlants.jpg&size=cover
 ### Laborarbeit
 Waschen in Ethanol hilft beim Entfernen von Algen.
 
----?image=img/G__Laborarbeit_2_LRPCRamplification.jpg&size=cover
+---?image=img/G__Labwork_2_LRPCRamplification.jpg&size=cover
 ### Laborarbeit
 Genomische DNA wird extrahiert und sogenannte DNA-Marker amplifiziert.
 
----?image=img/G__Laborarbeit_3_LRPCRamplification.jpg&size=cover
+---?image=img/G__Labwork_3_LRPCRamplification.jpg&size=cover
 ### Laborarbeit
 Die zirkulären Genome der Chloroplasten werden als DNA-Marker verwendet.
 
----?image=img/G__Laborarbeit_4_LibraryPrep.jpg&size=cover
+---?image=img/G__Labwork_4_LibraryPrep.jpg&size=cover
 ### Laborarbeit
 Die DNA-Marker werden für die DNA Sequenzierung vorbereitet.
 
----?image=img/G__Laborarbeit_5_DNAsequencing.jpg&size=cover
+---?image=img/G__Labwork_5_DNAsequencing.jpg&size=cover
 ### Laborarbeit
 DNA Sequenzierung findet heute auf minituarisierten Platten statt; riesige Datenmengen werden produziert.
 
@@ -188,23 +190,24 @@ Präsentation der Resultate auf wissenschaftlichen Konferenzen
 ### Präsentation der Resultate
 Worksops werden oft abgehalten.
 
----?image=img/K__Unterricht und Lehre_1_SchoolLevel.jpg&size=cover
+---?image=img/K__Teaching_1_SchoolLevel.jpg&size=cover
 ### Unterricht und Lehre
 Diskussion der Ergebnisse mit Schülern
 
----?image=img/K__Unterricht und Lehre_2_UniversityLevel_Audimax.jpg&size=cover
+---?image=img/K__Teaching_2_UniversityLevel_Audimax.jpg&size=cover
 ### Unterricht und Lehre
 Diskussion der Ergebnisse mit erstsemestrigen Studenten der Biologie
 
----?image=img/K__Unterricht und Lehre_3_UniversityLevel_Lehramtsmaster.jpg&size=cover
+---?image=img/K__Teaching_3_UniversityLevel_Lehramtsmaster.jpg&size=cover
 ### Unterricht und Lehre
 Diskussion der Ergebnisse mit Lehramststudenten
 
----?image=img/K__Unterricht und Lehre_4_UniversityLevel_JournalClub.jpg&size=cover
+---?image=img/K__Teaching_4_UniversityLevel_JournalClub.jpg&size=cover
 ### Unterricht und Lehre
 Diskussion der Ergebnisse mit Doktoratsstudenten
 
 ---?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=75
+<br>
 ### Kontakt
 Michael Gruenstaeudl, PhD
 <br>
