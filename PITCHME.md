@@ -16,293 +16,293 @@ Freien Universität Berlin
 
 ## Die Pflanze
 Victoria gehört zu den Seerosen.
-![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg)
+![Image](/img/A__Introduction_1_LeafsOfDifferentAges.jpg&size=auto)
 
 ---
 
 ## Die Pflanze
 Die Pflanze blüht an zwei aufeinanderfolgenden Nächten: zuerst weiß, dann rosa.
-![Image](/img/A__Introduction_2_bud.jpg)
+![Image](/img/A__Introduction_2_bud.jpg&size=auto)
 
 ---
 
 ## Die Pflanze
 Unter Wasser liegenden Pflanzenteile sind durch Stacheln geschützt.
-![Image](/img/A__Introduction_3_spines.jpg)
+![Image](/img/A__Introduction_3_spines.jpg&size=auto)
 
 ---
 ## Die Pflanze im Glashaus
 Die Heimat von Victoria ist Südamerika.
-![Image](/img/B__GrowingInGreenhouse_Victoria_1b.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_1b.jpg&size=auto)
 
 ---
 
 ## Die Pflanze im Glashaus
 Die Bedingungen im Glashauses müssen tropisch sein.
-![Image](/img/B__GrowingInGreenhouse_Victoria_1.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_1.jpg&size=auto)
 
 ---
 
 ## Die Pflanze im Glashaus
 Die Wassertemperatur soll nie weniger als 15°C betragen.
-![Image](/img/B__GrowingInGreenhouse_Victoria_2.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_2.jpg&size=auto)
 
 ---
 
 ## Die Pflanze im Glashaus
 Ungebetene Gäste sind keine Seltenheit.
-![Image](/img/B__GrowingInGreenhouse_Victoria_6.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_6.jpg&size=auto)
 
 ---
 
 ## Die Pflanze im Glashaus
 Fischeier haften oft an unterirdischen Rhizomen an und werden so eingeschleppt.
-![Image](/img/B__GrowingInGreenhouse_Victoria_7.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_7.jpg&size=auto)
 
 ---
 
 ## Aufzucht für Wissenschaft
 Für wissenschaftliche Zwecke werden Seerosen-Arten in kleinen Becken gehalten.
-![Image](/img/B__GrowingInGreenhouse_Victoria_3.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_3.jpg&size=auto)
 
 ---
 
 ## Aufzucht für Wissenschaft
 Die Pflanzen stehen in mit Erde/Schlamm gefüllten Töpfen im Wasser.
-![Image](/img/B__GrowingInGreenhouse_Victoria_4.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_4.jpg&size=auto)
 
 ---
 
 ## Aufzucht für Wissenschaft
 Die Pflanzen lassen sich einfach begutachten.
-![Image](/img/B__GrowingInGreenhouse_Victoria_5.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_5.jpg&size=auto)
 
 ---
 
 ## Aufzucht für Wissenschaft
 Alle Pflanzen müssen genau beschriftet sein.
-![Image](/img/B__GrowingInGreenhouse_Victoria_8.jpg)
+![Image](/img/B__GrowingInGreenhouse_Victoria_8.jpg&size=auto)
 
 ---
 
 ## Aufzucht seltener Arten
 Manche unserer Seerosen-Arten sind selten und schwierig zu kultivieren.
-![Image](/img/C__RareSamples_1.jpg)
+![Image](/img/C__RareSamples_1.jpg&size=auto)
 
 ---
 
 ## Aufzucht seltener Arten
 Manchmal gelingt die Aufzucht von sehr seltenen Arten.
-![Image](/img/C__RareSamples_2.jpg)
+![Image](/img/C__RareSamples_2.jpg&size=auto)
 
 ---
 
 ## Aufzucht seltener Arten
 Eine solche seltene Seerosen-Art ist Nymphaea thermarum.
-![Image](/img/C__RareSamples_3a.jpg)
+![Image](/img/C__RareSamples_3a.jpg&size=auto)
 
 ---
 
 ## Aufzucht seltener Arten
 Diese Art ist in freier Natur bereits ausgestroben.
-![Image](/img/C__RareSamples_4.jpg)
+![Image](/img/C__RareSamples_4.jpg&size=auto)
 
 ---
 
 ## Kontamination durch Algen
 Ungebetene Gäste sind keine (wieder) Seltenheit.
-![Image](/img/D__Contamination_Algae_1.jpg)
+![Image](/img/D__Contamination_Algae_1.jpg&size=auto)
 
 ---
 
 ## Kontamination durch Algen
 Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
-![Image](/img/D__Contamination_Algae_2.jpg)
+![Image](/img/D__Contamination_Algae_2.jpg&size=auto)
 
 ---
 
 ## Kontamination durch Algen
 Ungebetene Gäste sind keine (wieder) Seltenheit.
-![Image](/img/D__Contamination_Algae_3.jpg)
+![Image](/img/D__Contamination_Algae_3.jpg&size=auto)
 
 ---
 
 ## Kontamination durch Algen
 Vor einer wissenschaftlichen Bearbeitung muss man mögliche Kontamination zu identifizieren und entfernen.
-![Image](/img/D__Contamination_Algae_4.jpg)
+![Image](/img/D__Contamination_Algae_4.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_10.jpg)
+![Image](/img/E__CollectingNymphaea_10.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Die Unterseite der Blätter ist durch Stacheln bewehrt.
-![Image](/img/E__CollectingNymphaea_11.jpg)
+![Image](/img/E__CollectingNymphaea_11.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_12.jpg)
+![Image](/img/E__CollectingNymphaea_12.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
-![Image](/img/E__CollectingNymphaea_1.jpg)
+![Image](/img/E__CollectingNymphaea_1.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Das Sammeln von Victoria benötigt Vorsichtsmaßnahmen.
-![Image](/img/E__CollectingNymphaea_2.jpg)
+![Image](/img/E__CollectingNymphaea_2.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_3.jpg)
+![Image](/img/E__CollectingNymphaea_3.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_4.jpg)
+![Image](/img/E__CollectingNymphaea_4.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_5.jpg)
+![Image](/img/E__CollectingNymphaea_5.jpg&size=auto)
 
 ---
 
 ## Sammeln von Blattmaterial
 Foo Bar Baz
-![Image](/img/E__CollectingNymphaea_6.jpg)
+![Image](/img/E__CollectingNymphaea_6.jpg&size=auto)
 
 ---
 
 ## Morphologie
 Stützrippen halten das Blatt gerade und flach.
-![Image](/img/E__CollectingNymphaea_7.jpg)
+![Image](/img/E__CollectingNymphaea_7.jpg&size=auto)
 
 ---
 
 ## Morphologie
 Stützrippen halten das Blatt gerade und flach; Stacheln sind häufig.
-![Image](/img/E__CollectingNymphaea_8.jpg)
+![Image](/img/E__CollectingNymphaea_8.jpg&size=auto)
 
 ---
 
 ## Anatomie
 Luft wird über die Blätter aufgenommen und über Kanalsysteme bis zu den Wurzeln geleitet.
-![Image](/img/E__CollectingNymphaea_9.jpg)
+![Image](/img/E__CollectingNymphaea_9.jpg&size=auto)
 
 ---
 
 ## Anatomie
 Photosynthetisch aktive Zellen enthalten eine hohe Anzahl an Chloroplasten.
-![Image](/img/F__Anatomy_1_Leaf_Durchlicht.jpg)
+![Image](/img/F__Anatomy_1_Leaf_Durchlicht.jpg&size=auto)
 
 
 ---
 
 ## Laborarbeit
 Aufreinigung gesammelter Blätter
-![Image](/img/G__Laborarbeit_1_CleaningPlants.jpg)
+![Image](/img/G__Laborarbeit_1_CleaningPlants.jpg&size=auto)
 
 ---
 
 ## Laborarbeit
 Waschen in Ethanol hilft beim Entfernen von Algen.
-![Image](/img/G__Laborarbeit_2_CleaningPlants.jpg)
+![Image](/img/G__Laborarbeit_2_CleaningPlants.jpg&size=auto)
 
 ---
 
 ## Laborarbeit
 Genomische DNA wird extrahiert und sogenannte DNA-Marker amplifiziert.
-![Image](/img/G__Laborarbeit_2_LRPCRamplification.jpg)
+![Image](/img/G__Laborarbeit_2_LRPCRamplification.jpg&size=auto)
 
 ---
 
 ## Laborarbeit
 Die zirkulären Genome der Chloroplasten werden als DNA-Marker verwendet.
-![Image](/img/G__Laborarbeit_3_LRPCRamplification.jpg)
+![Image](/img/G__Laborarbeit_3_LRPCRamplification.jpg&size=auto)
 
 ---
 
 ## Laborarbeit
 Die DNA-Marker werden für die DNA Sequenzierung vorbereitet.
-![Image](/img/G__Laborarbeit_4_LibraryPrep.jpg)
+![Image](/img/G__Laborarbeit_4_LibraryPrep.jpg&size=auto)
 
 ---
 
 ## Laborarbeit
 DNA Sequenzierung findet heute auf minituarisierten Platten statt; riesige Datenmengen werden produziert.
-![Image](/img/G__Laborarbeit_5_DNAsequencing.jpg)
+![Image](/img/G__Laborarbeit_5_DNAsequencing.jpg&size=auto)
 
 ---
 
 ## Bioinformatische Analyse
 Sequenzierdaten werden bioinformatisch bearbeitet.
-![Image](/img/H__Bioinformatics_1.jpg)
+![Image](/img/H__Bioinformatics_1.jpg&size=auto)
 
 ---
 
 ## Bioinformatische Analyse
 Oft ist die Verwendung von Hochleistungsrechnern notwendig.
-![Image](/img/H__Bioinformatics_2.jpg)
+![Image](/img/H__Bioinformatics_2.jpg&size=auto)
 
 ---
 
 ## Bioinformatische Analyse
 Oft ist die Verwendung von Hochleistungsrechnern notwendig.
-![Image](/img/H__Bioinformatics_3.jpg)
+![Image](/img/H__Bioinformatics_3.jpg&size=auto)
 
 ---
 
 ## Präsentation der Resultate
 Präsentation der Resultate auf wissenschaftlichen Konferenzen
-![Image](/img/J__ScientificConferences_1.jpg)
+![Image](/img/J__ScientificConferences_1.jpg&size=auto)
 
 ---
 
 ## Präsentation der Resultate
 Worksops werden oft abgehalten.
-![Image](/img/J__ScientificConferences_2_Workshop.jpg)
+![Image](/img/J__ScientificConferences_2_Workshop.jpg&size=auto)
 
 ---
 
 ## Unterricht und Lehre
 Diskussion der Ergebnisse mit Schülern
-![Image](/img/K__Unterricht und Lehre_1_SchoolLevel.jpg)
+![Image](/img/K__Unterricht und Lehre_1_SchoolLevel.jpg&size=auto)
 
 ---
 
 ## Unterricht und Lehre
 Diskussion der Ergebnisse mit erstsemestrigen Studenten der Biologie
-![Image](/img/K__Unterricht und Lehre_2_UniversityLevel_Audimax.jpg)
+![Image](/img/K__Unterricht und Lehre_2_UniversityLevel_Audimax.jpg&size=auto)
 
 ---
 
 ## Unterricht und Lehre
 Diskussion der Ergebnisse mit Lehramststudenten
-![Image](/img/K__Unterricht und Lehre_3_UniversityLevel_Lehramtsmaster.jpg)
+![Image](/img/K__Unterricht und Lehre_3_UniversityLevel_Lehramtsmaster.jpg&size=auto)
 
 ---
 
 ## Unterricht und Lehre
 Diskussion der Ergebnisse mit Doktoratsstudenten
-![Image](/img/K__Unterricht und Lehre_4_UniversityLevel_JournalClub.jpg)
+![Image](/img/K__Unterricht und Lehre_4_UniversityLevel_JournalClub.jpg&size=auto)
 
----?image=img/E__CollectingNymphaea_10.jpg&size=cover&opacity=20
+---?image=img/E__CollectingNymphaea_10.jpg&size=auto&size=cover&opacity=20
 
-## About me
+## Kontakt
 
 Michael Gruenstaeudl, PhD
 Freie Universität Berlin
