@@ -32,11 +32,11 @@ Freien Universität Berlin
 ### *Victoria* - Die Pflanze
 @size[0.8em](Evolutionsgeschichte von *Victoria* nicht gut aufgeklärt.)
 
----?image=img/A__Introduction_5_PlastidGenome.png&size=auto 80%
+---?image=img/A__Introduction_5_PlastidGenome.png&size=auto 90%
 ### *Victoria* - Die Pflanze
 @size[0.8em](Genomische Daten helfen, Evolutionsgeschichte aufzuklären.)
 
----?image=img/A__Introduction_5_PlastidGenome.png&size=contain&opacity=75
+---?image=img/A__Introduction_5_PlastidGenome.png&size=auto 90%
 ### Fragestellung
 Wie verlief die Evolutionsgeschichte der Seerosen?
 
@@ -202,7 +202,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Bioinformatische Analyse
 @size[0.8em](Oft ist die Verwendung von Hochleistungsrechnern notwendig.)
 
----?image=img/A__Introduction_5_PlastidGenome.png&size=auto 80%
+---?image=img/A__Introduction_5_PlastidGenome.png&size=auto 90%
 ### Bioinformatische Analyse
 @size[0.8em](Plastidengenome werden assembliert.)
 
