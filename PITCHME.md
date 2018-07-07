@@ -18,7 +18,7 @@ Freien Universität Berlin
 
 ---?image=img/A__Introduction_1_LeafsOfDifferentAges.png&size=contain
 ### *Victoria* - Die Pflanze
-# @font-stretch[semi-condensed](Victoria gehört zur Familie der Seerosen.)
+@size[0.5em](Victoria gehört zur Familie der Seerosen.)
 
 ---?image=img/A__Introduction_2_bud.png&size=contain
 ### *Victoria* - Die Pflanze
