@@ -28,11 +28,11 @@ Freien Universität Berlin
 ### *Victoria* - Die Pflanze
 @size[0.8em](Unter Wasser liegenden Pflanzenteile sind durch Stacheln geschützt.)
 
----?image=img/A__Introduction_4_EvolutionaryHistory.png&size=contain
+---?image=img/A__Introduction_4_EvolutionaryHistory.png&size=auto 80%
 ### *Victoria* - Die Pflanze
 @size[0.8em](Evolutionsgeschichte von *Victoria* nicht gut aufgeklärt.)
 
----?image=img/A__Introduction_5_PlastidGenome.png&size=contain
+---?image=img/A__Introduction_5_PlastidGenome.png&size=auto 80%
 ### *Victoria* - Die Pflanze
 @size[0.8em](Genomische Daten helfen, Evolutionsgeschichte aufzuklären.)
 
@@ -168,7 +168,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Laborarbeit
 @size[0.8em](Genomische DNA wird extrahiert und DNA-Marker werden amplifiziert.)
 
----?image=img/G__Labwork_3_LRPCRamplification.png&size=contain
+---?image=img/G__Labwork_3_LRPCRamplification.png&size=auto 80%
 ### Laborarbeit
 @size[0.8em](Zirkuläre Chloroplasten-Genome werden schrittweise amplifiziert.)
 
@@ -190,11 +190,11 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Bioinformatische Analyse
 @size[0.8em](Sequenzdaten werden bioinformatisch bearbeitet.)
 
----?image=img/H__Bioinformatics_2a.png&size=auto 70%
+---?image=img/H__Bioinformatics_2a.png&size=auto 80%
 ### Bioinformatische Analyse
 @size[0.8em](Analyse passiert über halb-automatisierte Workflows.)
 
----?image=img/H__Bioinformatics_2b.png&size=auto 70%
+---?image=img/H__Bioinformatics_2b.png&size=auto 80%
 ### Bioinformatische Analyse
 @size[0.8em](Entwicklung eigener Software Scripts.)
 
@@ -202,20 +202,20 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Bioinformatische Analyse
 @size[0.8em](Oft ist die Verwendung von Hochleistungsrechnern notwendig.)
 
----?image=img/A__Introduction_5_PlastidGenome.png&size=contain
+---?image=img/A__Introduction_5_PlastidGenome.png&size=auto 80%
 ### Bioinformatische Analyse
 @size[0.8em](Plastidengenome werden assembliert.)
 
----?image=img/A__Introduction_4_EvolutionaryHistory.png&size=contain
+---?image=img/A__Introduction_4_EvolutionaryHistory.png&size=auto 80%
 ### Bioinformatische Analyse
 @size[0.8em](Phylogenetische Bäume werden berechnet.)
 
 
----?image=img/J__ScientificPaper_1.png&size=auto 70%
+---?image=img/J__ScientificPaper_1.png&size=auto 50%
 ### Präsentation der Resultate
 @size[0.8em](Veröffentlichung wissenschaftlicher Fachartikel)
 
----?image=img/J__ScientificPaper_2.png&size=auto 70%
+---?image=img/J__ScientificPaper_2.png&size=auto 60%
 ### Präsentation der Resultate
 @size[0.8em](Veröffentlichung wissenschaftlicher Fachartikel)
 
