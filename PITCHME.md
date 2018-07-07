@@ -4,7 +4,7 @@
 ## Evolution 
 ## von Seerosen
 <br>
-### Gene, Genome, Computeranalysen
+Gene, Genome, Computeranalysen
 
 ---?image=img/Title_slide.jpg&size=contain&opacity=75
 <br>
@@ -18,7 +18,7 @@ Freien Universität Berlin
 
 ---?image=img/A__Introduction_1_LeafsOfDifferentAges.png&size=contain
 ### *Victoria* - Die Pflanze
-Victoria gehört zur Familie der Seerosen.
+<sup>Victoria gehört zur Familie der Seerosen.<sup/>
 
 ---?image=img/A__Introduction_2_bud.png&size=contain
 ### *Victoria* - Die Pflanze
@@ -44,7 +44,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 
 ---?image=img/B__GrowingInGreenhouse_Victoria_1b.png&size=contain
 ### *Victoria* - Im Glashaus
-Die Heimat von Victoria ist Südamerika.
+Die Heimat von *Victoria* ist Südamerika.
 
 ---?image=img/B__GrowingInGreenhouse_Victoria_1.png&size=contain
 ### *Victoria* - Im Glashaus
@@ -215,11 +215,11 @@ Foo bar baz
 Foo bar baz
 
 
----?image=img/J__ScientificPaper_1.png&size=auto 80%
+---?image=img/J__ScientificPaper_1.png&size=contain 80%
 ### Präsentation der Resultate
 Foo bar baz
 
----?image=img/J__ScientificPaper_1.png&size=auto 80%
+---?image=img/J__ScientificPaper_2.png&size=contain 80%
 ### Präsentation der Resultate
 Foo bar baz
 
@@ -248,6 +248,12 @@ Diskussion der Ergebnisse mit Lehramststudenten
 ---?image=img/K__Teaching_4_UniversityLevel_JournalClub.png&size=contain
 ### Unterricht und Lehre
 Diskussion der Ergebnisse mit Doktoratsstudenten
+
+
+---?image=img/Title_slide.jpg&size=contain&opacity=75
+<br>
+Die Erforschung der Evolutionsgeschichte der Seerosen ist faszinierend!
+<br>
 
 
 
