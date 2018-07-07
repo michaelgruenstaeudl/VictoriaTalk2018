@@ -18,11 +18,11 @@ Freien Universität Berlin
 
 ---?image=img/A__Introduction_1_LeafsOfDifferentAges.png&size=contain
 ### *Victoria* - Die Pflanze
-@css[compressedtext](*Victoria* gehört zur Familie der Seerosen.)
+@css[condensedfont](*Victoria* gehört zur Familie der Seerosen.)
 
 ---?image=img/A__Introduction_2_bud.png&size=contain
 ### *Victoria* - Die Pflanze
-@css[compressedtext](*Victoria* blüht an zwei aufeinanderfolgenden Nächten: zuerst weiß, dann rosa.)
+@css[condensedfont](*Victoria* blüht an zwei aufeinanderfolgenden Nächten: zuerst weiß, dann rosa.)
 
 ---?image=img/A__Introduction_3_spines.png&size=contain
 ### *Victoria* - Die Pflanze
