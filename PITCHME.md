@@ -112,10 +112,6 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Sammeln von Blattmaterial
 @size[0.8em](Blattmaterial wird zur genomischen Analyse gebraucht.)
 
----?image=img/E__CollectingNymphaea_12.png&size=contain
-### Sammeln von Blattmaterial
-@size[0.8em](Die Unterseite der Blätter ist durch Stacheln bewehrt.)
-
 ---?image=img/E__CollectingNymphaea_11.png&size=contain
 ### Sammeln von Blattmaterial
 @size[0.8em](Die Unterseite der Blätter ist durch Stacheln bewehrt.)
@@ -133,6 +129,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 @size[0.8em](Das Blatt wird am Blattstiel abgeschnitten.)
 
 ---?image=img/E__CollectingNymphaea_5.png&size=contain
+### Sammeln von Blattmaterial
 @size[0.8em](Das Blatt wird am Blattstiel abgeschnitten.)
 
 ---?image=img/E__CollectingNymphaea_6.png&size=contain
@@ -151,7 +148,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 
 ---?image=img/E__CollectingNymphaea_9.png&size=contain
 ### Anatomie von *Victoria*
-@size[0.8em](Luft wird über Blätter aufgenommen und über Kanäle zu Wurzeln geleitet.)
+@size[0.8em](Luft wird über Blätter aufgenommen, über Kanäle zu Wurzeln geleitet.)
 
 ---?image=img/F__Anatomy_1_Leaf_Durchlicht.png&size=contain
 ### Anatomie von *Victoria*
@@ -177,7 +174,7 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 
 ---?image=img/G__Labwork_4_LibraryPrep.png&size=contain
 ### Laborarbeit
-@size[0.8em](Die DNA-Marker werden für die DNA Sequenzierung vorbereitet.)
+@size[0.8em](Genomische DNA wird für DNA Sequenzierung vorbereitet.)
 
 ---?image=img/G__Labwork_5_DNAsequencing.png&size=contain
 ### Laborarbeit
@@ -193,11 +190,11 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 ### Bioinformatische Analyse
 @size[0.8em](Sequenzdaten werden bioinformatisch bearbeitet.)
 
----?image=img/H__Bioinformatics_2a.png&size=contain
+---?image=img/H__Bioinformatics_2a.png&size=auto 70%
 ### Bioinformatische Analyse
 @size[0.8em](Analyse passiert über halb-automatisierte Workflows.)
 
----?image=img/H__Bioinformatics_2b.png&size=contain
+---?image=img/H__Bioinformatics_2b.png&size=auto 70%
 ### Bioinformatische Analyse
 @size[0.8em](Entwicklung eigener Software Scripts.)
 
@@ -214,11 +211,11 @@ Wie verlief die Evolutionsgeschichte der Seerosen?
 @size[0.8em](Phylogenetische Bäume werden berechnet.)
 
 
----?image=img/J__ScientificPaper_1.png&size=auto 80%
+---?image=img/J__ScientificPaper_1.png&size=auto 70%
 ### Präsentation der Resultate
 @size[0.8em](Veröffentlichung wissenschaftlicher Fachartikel)
 
----?image=img/J__ScientificPaper_2.png&size=auto 80%
+---?image=img/J__ScientificPaper_2.png&size=auto 70%
 ### Präsentation der Resultate
 @size[0.8em](Veröffentlichung wissenschaftlicher Fachartikel)
 
