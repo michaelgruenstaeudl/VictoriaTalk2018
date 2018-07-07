@@ -26,15 +26,15 @@ Freien Universität Berlin
 
 ---?image=img/A__Introduction_3_spines.png&size=contain
 ### *Victoria* - Die Pflanze
-Unter Wasser liegenden Pflanzenteile sind durch Stacheln geschützt.
+@css[condensedfont](Unter Wasser liegenden Pflanzenteile sind durch Stacheln geschützt.)
 
 ---?image=img/A__Introduction_4_EvolutionaryHistory.png&size=contain
 ### *Victoria* - Die Pflanze
-Evolutionsgeschichte von *Victoria* nicht gut verstanden.
+@css[condensedfont](Evolutionsgeschichte von *Victoria* nicht gut verstanden.)
 
 ---?image=img/A__Introduction_5_PlastidGenome.png&size=contain
 ### *Victoria* - Die Pflanze
-Vergleich von DNA-Strängen hilft, um Evolutionsgeschichte aufzuklären.
+@css[condensedfont](Vergleich von DNA-Strängen hilft, um Evolutionsgeschichte aufzuklären.)
 
 ---?image=img/A__Introduction_5_PlastidGenome.png&size=contain&opacity=75
 <br>
