@@ -14,7 +14,7 @@ Ein Publikumsvortrag über die Erforschung der Evolutionsgeschichte der Seerosen
 ### Michael Grünstäudl, PhD
 Freien Universität Berlin
 
----?image=img/A__Introduction_1_LeafsOfDifferentAges.jpg&size=contain
+---?image=img/A__Introduction_1_LeafsOfDifferentAges.png&size=contain
 ### Die Pflanze
 Victoria gehört zu den Seerosen.
 
