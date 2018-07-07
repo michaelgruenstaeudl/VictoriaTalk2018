@@ -17,8 +17,10 @@ Freien Universität Berlin
 
 
 ---?image=img/A__Introduction_1_LeafsOfDifferentAges.png&size=contain
+<sub>
 ### *Victoria* - Die Pflanze
-<sup>Victoria gehört zur Familie der Seerosen.<sup/>
+Victoria gehört zur Familie der Seerosen.
+<sub/>
 
 ---?image=img/A__Introduction_2_bud.png&size=contain
 ### *Victoria* - Die Pflanze
@@ -30,7 +32,7 @@ Unter Wasser liegenden Pflanzenteile sind durch Stacheln geschützt.
 
 ---?image=img/A__Introduction_4_EvolutionaryHistory.png&size=contain
 ### *Victoria* - Die Pflanze
-Evolutionsgeschichte von Victoria nicht gut verstanden.
+Evolutionsgeschichte von *Victoria* nicht gut verstanden.
 
 ---?image=img/A__Introduction_5_PlastidGenome.png&size=contain
 ### *Victoria* - Die Pflanze
